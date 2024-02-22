@@ -10,6 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+# Los mains de algunas funciones, no están del todo correctos, puede haber fallos.
+
 #include "libft.h"
 int main() // Main de ft_bzero
 {
